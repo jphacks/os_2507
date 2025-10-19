@@ -5,7 +5,7 @@
 だれでも迷わず組み立てられる“会話型マニュアル体験”を提供します。
 PDFの取説をアップロードすると、工程や部品の疑問に根拠つきで答えます。
 
-[https://youtu.be/QWwfHjx5484](https://www.youtube.com/embed/QWwfHjx5484?si=uTAG9TY_9YO10kQa)
+[![組みTalk](https://img.youtube.com/vi/QWwfHjx5484/sddefault.jpg)](https://www.youtube.com/watch?v=QWwfHjx5484)
 
 ## 概要 / 位置づけ
 
