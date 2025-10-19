@@ -2,7 +2,8 @@
 
 **家具の“取説”をチャットで解決する AI アシスタント**
 
-取説 x Tech：面倒な家具の組み立てをAIが対話型で支援するWebアプリ
+だれでも迷わず組み立てられる“会話型マニュアル体験”を提供します。
+PDFの取説をアップロードすると、工程や部品の疑問に根拠つきで答えます。
 
 [![Kumi-Talk](public/images/KumiTalk_v2.png)](https://www.youtube.com/watch?v=QWwfHjx5484)
 
