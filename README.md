@@ -42,7 +42,7 @@ Frontend (Next.js)
     ↓ API Routes (/app/api/*)
 Backend (Upload / Analyze / Chat)
     ↓
-Supabase (Auth / Postgres / Storage / pgvector / RLS)
+Supabase (Postgres)
     ↓
 LLM Provider (Gemini via Adapter)
 ```
@@ -59,8 +59,8 @@ LLM Provider (Gemini via Adapter)
 1. **リポジトリのクローン**
 
 ```bash
-git clone <your-repo-url>
-cd kumi-talk
+git clone https://github.com/jphacks/os_2507.git
+cd os_2507
 ```
 
 2. **依存関係のインストール**
@@ -73,7 +73,7 @@ npm install
 
 ```bash
 supabase start
-supabase db reset  # pgvector有効化 & 初期スキーマ投入
+supabase db reset
 ```
 
 4. **開発サーバーの起動**
